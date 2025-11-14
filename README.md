@@ -8,13 +8,6 @@ The project integrates both **statistical forecasting** and **technical indicato
 
 ---
 
-## 🎯 Motivation / Motto  
-Financial markets are dynamic and volatile, making trend prediction a crucial task for minimizing risk.  
-The motto behind this project is:  
-> “To combine machine learning and time-series forecasting to automate investment insights and improve decision-making accuracy.”
-
----
-
 ## Dataset  
 - **Source:** Investment/market data stored in `invest.xlsx`  
 - **Features:** Date, Open, High, Low, Close, Volume  
