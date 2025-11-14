@@ -16,7 +16,7 @@ The project integrates both **statistical forecasting** and **technical indicato
 
 ---
 
-## 🧠 Methodology  
+## Methodology  
 
 ### 1. **ARIMA / SARIMA Models**
 Used for univariate forecasting based on historical closing prices.  
