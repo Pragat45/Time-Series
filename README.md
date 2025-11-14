@@ -8,8 +8,11 @@ The project integrates both statistical forecasting and technical indicators (li
 
 Dataset
 Source: Investment/market data stored in invest.xlsx
+
 Features: Date, Open, High, Low, Close, Volume
+
 Frequency: Daily records
+
 Preprocessing: Missing values handled, volume and percentage columns cleaned, and data normalized for model input.
 
 Methodology
