@@ -1,6 +1,6 @@
-# 📊 Investment Trend Forecasting using ARIMA, Prophet & Hybrid Models
+# Investment Trend Forecasting using ARIMA, Prophet & Hybrid Models
 
-## 🧭 Project Overview  
+## Project Overview  
 This project focuses on **predicting investment trends** and **generating intelligent trade decisions** using advanced time-series forecasting models — including **ARIMA**, **SARIMA**, **Prophet**, and **LSTM**.  
 The goal is to build a framework that helps investors make data-driven buy/sell decisions with **maximum returns and minimal losses**.  
 
@@ -15,7 +15,7 @@ The motto behind this project is:
 
 ---
 
-## 🧩 Dataset  
+## Dataset  
 - **Source:** Investment/market data stored in `invest.xlsx`  
 - **Features:** Date, Open, High, Low, Close, Volume  
 - **Frequency:** Daily records  
@@ -48,7 +48,7 @@ Integrated investment logic with:
 
 ---
 
-## 📈 Model Comparison
+## Model Comparison
 | Model | Strength | Weakness | Usage |
 |--------|-----------|-----------|--------|
 | **ARIMA** | Good for linear stationary data | Poor with trend shifts | Baseline |
@@ -57,7 +57,7 @@ Integrated investment logic with:
 
 ---
 
-## 🚀 Futuristic Approach  
+ Futuristic Approach  
 The project sets the foundation for a **hybrid AI-based investment system**.  
 Future plans include:
 - Combining **Prophet + LSTM (Hybrid model)** for enhanced accuracy  
@@ -83,7 +83,7 @@ jupyter notebook Invest.ipynb
 
 ---
 
-## 📊 Results & Visualization
+## Results & Visualization
 - Time-series decomposition of trends and seasonality  
 - Forecast plots for ARIMA, Prophet, and LSTM  
 - Comparison of predicted vs. actual closing prices  
@@ -91,13 +91,8 @@ jupyter notebook Invest.ipynb
 
 ---
 
-## 🏁 Conclusion  
+## Conclusion  
 The notebook demonstrates how combining **statistical forecasting** and **machine learning** can provide actionable insights for investments.  
 By integrating forecasting with technical trading logic, this project moves a step closer to **automated portfolio intelligence**.  
 
----
 
-## 🧾 Author  
-**Pragat Pagariya**  
-📧 your.email@example.com  
-💼 [LinkedIn / Portfolio link]  
